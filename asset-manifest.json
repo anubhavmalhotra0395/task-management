@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/task-management/static/css/main.9d2b5231.css",
-    "main.js": "/task-management/static/js/main.f3536876.js",
-    "static/js/787.a5a00b74.chunk.js": "/task-management/static/js/787.a5a00b74.chunk.js",
-    "index.html": "/task-management/index.html",
-    "main.9d2b5231.css.map": "/task-management/static/css/main.9d2b5231.css.map",
-    "main.f3536876.js.map": "/task-management/static/js/main.f3536876.js.map",
-    "787.a5a00b74.chunk.js.map": "/task-management/static/js/787.a5a00b74.chunk.js.map"
+    "main.css": "/anubhavmalhotra0395/task-management/static/css/main.9d2b5231.css",
+    "main.js": "/anubhavmalhotra0395/task-management/static/js/main.cd4ba7f6.js",
+    "static/js/787.a5a00b74.chunk.js": "/anubhavmalhotra0395/task-management/static/js/787.a5a00b74.chunk.js",
+    "index.html": "/anubhavmalhotra0395/task-management/index.html",
+    "main.9d2b5231.css.map": "/anubhavmalhotra0395/task-management/static/css/main.9d2b5231.css.map",
+    "main.cd4ba7f6.js.map": "/anubhavmalhotra0395/task-management/static/js/main.cd4ba7f6.js.map",
+    "787.a5a00b74.chunk.js.map": "/anubhavmalhotra0395/task-management/static/js/787.a5a00b74.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d2b5231.css",
-    "static/js/main.f3536876.js"
+    "static/js/main.cd4ba7f6.js"
   ]
 }
