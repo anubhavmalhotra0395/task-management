@@ -1,0 +1,3 @@
+I have created a state for holding the tasks,where I can add a task, which can be updated, deleted and moved. I created separate components for each
+field where data has been passed using props. The Update and Delete handler take in the id of the task as an input and update or delete it accordingly.
+The export to Excel was successful using the react-csv package. Thanks!
