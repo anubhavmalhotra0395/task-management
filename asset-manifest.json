@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/anubhavmalhotra0395/task-management.git/static/css/main.630ee23b.css",
-    "main.js": "/anubhavmalhotra0395/task-management.git/static/js/main.b8f804da.js",
-    "static/js/787.a5a00b74.chunk.js": "/anubhavmalhotra0395/task-management.git/static/js/787.a5a00b74.chunk.js",
-    "index.html": "/anubhavmalhotra0395/task-management.git/index.html",
-    "main.630ee23b.css.map": "/anubhavmalhotra0395/task-management.git/static/css/main.630ee23b.css.map",
-    "main.b8f804da.js.map": "/anubhavmalhotra0395/task-management.git/static/js/main.b8f804da.js.map",
-    "787.a5a00b74.chunk.js.map": "/anubhavmalhotra0395/task-management.git/static/js/787.a5a00b74.chunk.js.map"
+    "main.css": "/task-management/static/css/main.630ee23b.css",
+    "main.js": "/task-management/static/js/main.5265dc3f.js",
+    "static/js/787.a5a00b74.chunk.js": "/task-management/static/js/787.a5a00b74.chunk.js",
+    "index.html": "/task-management/index.html",
+    "main.630ee23b.css.map": "/task-management/static/css/main.630ee23b.css.map",
+    "main.5265dc3f.js.map": "/task-management/static/js/main.5265dc3f.js.map",
+    "787.a5a00b74.chunk.js.map": "/task-management/static/js/787.a5a00b74.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.630ee23b.css",
-    "static/js/main.b8f804da.js"
+    "static/js/main.5265dc3f.js"
   ]
 }
